@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">qzhou2-FoodBook</string>
+    <string name="add_button_text">add new food</string>
+    <string name="delete_button_text">delete the food</string>
+    <string name="popup_description">Create New Food</string>
+</resources>
